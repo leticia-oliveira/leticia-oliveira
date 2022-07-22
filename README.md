@@ -12,4 +12,16 @@
 🎮 - Projetando meu próprio jogo
 
 ---
+<div align="center">
 
+ ### Estes são meus melhores repositórios:
+##
+#### ｡ｏ♡*ﾟﾟ･｡｡ｏ♡ Exercícios favoritos da faculdade ♡ｏ｡*ﾟﾟ･｡♡ｏ｡
+
+editando****
+
+ [![Lista de Estruturas Sequenciais](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/Exercicios-de-APC-UNB)
+ [![Lista de Estruturas de Decisão](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/Exercicios-de-APC-UNB)
+  [![Lista de Estruturas de Repetição](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/Exercicios-de-APC-UNB)
+ 
+</div>
