@@ -20,10 +20,10 @@
 
 editando****
 
- [![Lista de Estruturas Sequenciais](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](link aqui)
- [![Lista de Estruturas de Decisão](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](link aqui)
- [![Lista de Estruturas de Repetição](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](link aqui)
-  #r
+ [![Lista de Estruturas Sequenciais](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/leticia-oliveira/)
+ [![Lista de Estruturas de Decisão](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/leticia-oliveira/)
+ [![Lista de Estruturas de Repetição](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliveira&repo=Exercicios-de-APC-UNB&theme=ocean_dark&)](https://github.com/leticia-oliveira/leticia-oliveira/)
+
 ![Snake animation](https://github.com/leticia-oliveira/leticia-oliveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
